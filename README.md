@@ -39,17 +39,3 @@
   [📖 API Docs](https://identio-mono.toro-lab.cv/swagger-ui/index.html)
 - **[toki-sona](https://github.com/Alejorotp/toki-sona)**: One of my personal projects self-hosted on my custom domain.  
   [🌐 toki-sona.toro-lab.cv](https://toki-sona.toro-lab.cv)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alejorotp&show_icons=true&theme=radical" alt="Alejandro's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alejorotp&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <a href="https://github.com/Alejorotp">
-    <img src="https://komarev.com/ghpvc/?username=Alejorotp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
