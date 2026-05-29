@@ -1,12 +1,3 @@
-<h1 align="center">Hi there, I'm Alejandro 👋</h1>
-<h3 align="center">Software Engineering Student</h3>
-
-<p align="center">
-  <a href="https://github.com/Alejorotp">
-    <img src="https://komarev.com/ghpvc/?username=Alejorotp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ### 👨‍💻 About Me
 
 - 🌱 I'm in my **final year of Software Engineering**.
@@ -56,4 +47,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejorotp&show_icons=true&theme=radical" alt="Alejandro's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejorotp&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <a href="https://github.com/Alejorotp">
+    <img src="https://komarev.com/ghpvc/?username=Alejorotp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
