@@ -1,15 +1,4 @@
-### 👨‍💻 About Me
-
-- 🌱 I'm in my **final year of Software Engineering**.
-- 💼 **Full Stack Software Engineer** specializing in robust backend architectures, AI integrations, and cloud infrastructure deployment.
-- 👯 I'm actively seeking collaboration on projects to contribute to the open-source community.
-- 📫 How to reach me: 
-  - LinkedIn: [linkedin.com/in/alejandrotp](https://www.linkedin.com/in/alejandrotp)
-  - Email: [alejandrotoropinedo@gmail.com](mailto:alejandrotoropinedo@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
+### 🛠️ Stack
 
 **📱 Mobile:**  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -39,3 +28,7 @@
   [📖 API Docs](https://identio-mono.toro-lab.cv/swagger-ui/index.html)
 - **[toki-sona](https://github.com/Alejorotp/toki-sona)**: One of my personal projects self-hosted on my custom domain.  
   [🌐 toki-sona.toro-lab.cv](https://toki-sona.toro-lab.cv)
+
+### 📧 Contact Me
+- LinkedIn: [linkedin.com/in/alejandrotp](https://www.linkedin.com/in/alejandrotp)
+- Email: [alejandrotoropinedo@gmail.com](mailto:alejandrotoropinedo@gmail.com)
